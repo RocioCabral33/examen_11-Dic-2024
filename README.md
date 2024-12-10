@@ -18,5 +18,5 @@ examen_11-Dic-2024
    [[Control Indice de Accidentes e Incidentes](https://docs.google.com/spreadsheets/d/1o6v_P0qQADZe-Xb3hXjNW3ug0_mpAth947NGQCqWATw/edit?gid=0#gid=0)]
    
    ### Presentaciones sobre Protocolo de Emergencia y Evacuación.
-   [[Presentaciones](MODIFICA - AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
+   [[Presentaciones](https://gamma.app/docs/Manual-de-Protocolos-de-Emergencia-y-Evacuacion-8movfw0omgudriz?mode=doc)]
    
